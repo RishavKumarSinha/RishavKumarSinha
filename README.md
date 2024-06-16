@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a Flutter App utilizing Neural Networks.**
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Neural Networks.**
 
-- 🤝 I’m looking for help with **Data Structures & Algorithms**
+- 🤝 I’m looking for help with **Data Structures & Algorithms.**
 
 - 📫 How to reach me **sinharishavkumar@gmail.com**
 
