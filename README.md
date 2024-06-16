@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Flutter App utilizing Neural Networks.**
 
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 🤝 I’m looking for help with **Data Structures & Algorithms**
 
