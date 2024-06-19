@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **Data Structures & Algorithms.**
 
-- 📫 How to reach me **sinharishavkumar@gmail.com**
-
 - ⚡ Fun fact **I love playing Chess!**
 
 <h3 align="left">Connect with me:</h3>
