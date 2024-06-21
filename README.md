@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar Sinha</h1>
 <h3 align="center">A Flutter Dev & Open-Source enthusiast.</h3>
 
-- 🔭 I’m currently working on **a Flutter App utilizing Neural Networks.**
+- 🔭 I’m currently working on **a Flutter App utilizing Gemini API.**
 
-- 🌱 I’m currently learning **Neural Networks.**
+- 🌱 I’m currently learning **Android Development.**
 
 - 🤝 I’m looking for help with **Data Structures & Algorithms.**
 
