@@ -25,6 +25,21 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,figma,github,gitlab,git,postman)](https://skillicons.dev)
 
 <details>	
+ <summary><b>GitHub Certifications :octocat:</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://www.credly.com/badges/28c885df-e5a0-48d0-a382-0cedc5931bcb/public_url">
+<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150px" height="150px" />
+</a>
+<a href="https://www.credly.com/badges/6b89976b-3581-4483-bb2e-65f0eae4d25a/public_url">
+<img src="https://images.credly.com/size/680x680/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="150px" height="150px" />
+</a>
+<a href="https://www.credly.com/badges/4f70598f-d7c8-49a4-a170-6c31075c5f69/public_url">
+<img src="https://images.credly.com/size/680x680/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="150px" height="150px" />
+</a>
+</div>
+</details>
+
+<details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -36,15 +51,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" /></a>
 </div>
 </details>
-<details>	
- <summary><b>GitHub Stats 📊</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
- 
-![](https://github-readme-stats.vercel.app/api?username=RishavKumarSinha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RishavKumarSinha&theme=dark&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavKumarSinha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div></details></br>
+</br>
 <div>
  
 [![](https://visitcount.itsvg.in/api?id=RishavKumarSinha&icon=0&color=0)](https://visitcount.itsvg.in)
