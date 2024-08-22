@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </br>
 <h1 align="center">Hi 👋, I'm Rishav Kumar Sinha</h1>
-<h3 align="center">A Flutter Dev & Open-Source enthusiast.</h3>
+<h3 align="center">A Mechanical Engineer who just happens to be more interested in Open-Source Contributions, App Development & Tech in general...</h3>
 
 - 🔭 I’m currently working on **a Flutter App utilizing Gemini API.**
 - 🌱 I’m currently learning **More about Flutter Packages & Plugins.**
