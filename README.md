@@ -36,6 +36,9 @@
 <a href="https://www.credly.com/badges/4f70598f-d7c8-49a4-a170-6c31075c5f69/public_url">
 <img src="https://images.credly.com/size/680x680/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="150px" height="150px" />
 </a>
+ <a href="https://www.credly.com/badges/81bb0c2c-4c00-4305-a056-f1390051b043/public_url">
+<img src="https://images.credly.com/size/680x680/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" width="150px" height="150px" />
+</a>
 </div>
 </details>
 
