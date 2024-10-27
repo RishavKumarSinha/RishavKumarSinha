@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar Sinha</h1>
 <h3 align="center">A Mechanical Engineer who just happens to be more interested in Open-Source Contributions, App Development & Tech in general...</h3>
 
-- 🔭 I’m currently working on **a Flutter Music App utilizing Spotify API.**
+- 🔭 I’m currently working on **a Flutter Chess App.**
 - 🌱 I’m currently learning **More about Flutter Packages & Plugins.**
 - 🤝 I’m looking for help with **Flutter- Firebase Backend Integration.**
 - 💬 Ask me about **App Development, Git, GitHub, Open-Source Software Development**.
