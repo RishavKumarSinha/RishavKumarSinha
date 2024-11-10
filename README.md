@@ -42,6 +42,12 @@
 </div>
 </details>
 
+<details>	
+ <summary><b>Holopin Badges 🏆</b></summary><br>
+ 
+[![An image of @rishavkumarsinha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishavkumarsinha)](https://holopin.io/@rishavkumarsinha)
+</details>
+
 </br>
 <div>
  
