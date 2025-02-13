@@ -1,14 +1,14 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </br>
 <h1 align="center">Hi 👋, I'm Rishav Kumar Sinha</h1>
-<h3 align="center">A Mechanical Engineer who just happens to be more interested in Open-Source Contributions, App Development & Tech in general...</h3>
+<h3 align="center">Aspiring Software Developer with expertise in Flutter and GitHub Actions, passionate about open-source solutions.</h3>
 
-- 🔭 I’m currently working on **Machine Learning Project.**
-- 🌱 I’m currently learning **More about Flutter Packages & Plugins.**
-- 🤝 I’m looking for help with **Flutter- Firebase Backend Integration.**
-- 💬 Ask me about **App Development, Git, GitHub, Open-Source Software Development**.
-- ⚡ Fun fact **I love playing Chess!**
-- 📍 Location: **India**
+- 🔭 I’m currently working on a Machine Learning-based Chess Bot to analyze gameplay and improve strategic decision-making.
+- 🌱 I’m currently exploring advanced Flutter packages & plugins to enhance app functionality.
+- 🤝 I’m looking for guidance on Flutter-Firebase backend integration for scalable apps.
+- 💬 Ask me about App Development, Git, GitHub, Open-Source Contributions, and Software Development.
+- ⚡ Fun fact: I’m a chess enthusiast with a 1400+ rating!
+- 📍 Based in India.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,11 +18,11 @@
 
 # 💻 Tech Stack
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,c,cpp,html,css,js)](https://skillicons.dev)
 ## Framework & Backend
-[![My Skills](https://skillicons.dev/icons?i=flutter,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,solidity)](https://skillicons.dev)
 ## Tools & Software 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,figma,github,gitlab,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,figma,github,githubactions,gitlab,git,postman)](https://skillicons.dev)
 
 <details>	
  <summary><b>GitHub Certifications :octocat:</b></summary><br>
