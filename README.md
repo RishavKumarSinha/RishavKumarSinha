@@ -20,7 +20,7 @@
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=dart,kotlin,c,cpp,html,css,js)](https://skillicons.dev)
 ## Framework & Backend
-[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,mongodb,solidity)](https://skillicons.dev)
 ## Tools & Software 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,figma,github,githubactions,gitlab,git,postman)](https://skillicons.dev)
 
