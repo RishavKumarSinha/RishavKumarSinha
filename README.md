@@ -10,12 +10,6 @@
 - ⚡ Fun fact: I’m a chess enthusiast with a 1400+ rating!
 - 📍 Based in India.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/rks_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rks_codes" height="48" width="45" /></a>
-<a href="https://linkedin.com/in/rishav-kumar-sinha-292471319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-kumar-sinha-292471319" height="30" width="40" /></a>
-</p>
-
 # 💻 Tech Stack
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=dart,kotlin,c,cpp,html,css,js)](https://skillicons.dev)
